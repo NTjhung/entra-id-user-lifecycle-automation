@@ -51,8 +51,24 @@ Companies need a repeatable process for onboarding, updating, and offboarding us
 
 ## Project Files
 
-```text
-scripts/
-sample-data/
-docs/
-screenshots/
+- scripts/
+- sample-data/
+- docs/
+- screenshots/
+
+## Planned Documents
+
+- Joiner-Mover-Leaver Runbook
+- Offboarding Checklist
+- Access Control Matrix
+- Sample User CSV
+- PowerShell Scripts
+- Audit Evidence Screenshots
+
+## Resume Bullet
+
+- Built a Microsoft Entra ID user lifecycle automation lab using PowerShell and Microsoft Graph to simulate onboarding, group assignment, access removal, and audit evidence collection.
+
+## Status
+
+In progress. This project will be updated as the lab is built out with scripts, sample data, documentation, and screenshots.
