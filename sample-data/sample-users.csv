@@ -1,0 +1,11 @@
+FirstName,LastName,Department,JobTitle,UserPrincipalName,Manager,AccessGroup
+Alice,Johnson,HR,HR Manager,alice.johnson@yourtenant.onmicrosoft.com,Frank Miller,SG-HR-Employees
+Brian,Lee,Finance,Finance Analyst,brian.lee@yourtenant.onmicrosoft.com,Frank Miller,SG-Finance-Employees
+Carlos,Ramirez,IT,Helpdesk Technician,carlos.ramirez@yourtenant.onmicrosoft.com,Nick Admin,SG-IT-Admins
+Dana,Smith,Contractors,Project Contractor,dana.smith@yourtenant.onmicrosoft.com,Carlos Ramirez,SG-Contractors
+Emma,Wilson,Sales,Sales Representative,emma.wilson@yourtenant.onmicrosoft.com,Frank Miller,SG-Sales-Employees
+Frank,Miller,Executives,Chief Financial Officer,frank.miller@yourtenant.onmicrosoft.com,Nick Admin,SG-Executives
+Grace,Kim,HR,Recruiting Specialist,grace.kim@yourtenant.onmicrosoft.com,Alice Johnson,SG-HR-Employees
+Henry,Brown,Finance,Accounts Payable Specialist,henry.brown@yourtenant.onmicrosoft.com,Brian Lee,SG-Finance-Employees
+Isabella,Davis,Sales,Account Executive,isabella.davis@yourtenant.onmicrosoft.com,Emma Wilson,SG-Sales-Employees
+James,Clark,Contractors,Temporary IT Contractor,james.clark@yourtenant.onmicrosoft.com,Carlos Ramirez,SG-Contractors
